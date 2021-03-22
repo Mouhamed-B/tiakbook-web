@@ -1,6 +1,7 @@
 {
   "name": "tiakbook-web",
   "version": "0.1.0",
+  "description": "Application Web tiakbook",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
@@ -11,6 +12,16 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L3-ESITEC-GROUPE1/tiakbook-web.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "material-ui",
+    "firebase"
+  ],
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -34,5 +45,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "author": "Md-Bm, Unknown",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/L3-ESITEC-GROUPE1/tiakbook-web/issues"
+    },
+    "homepage": "https://github.com/L3-ESITEC-GROUPE1/tiakbook-web#readme"
 }
